@@ -3,7 +3,7 @@ Python notebooks for MSc consultancy project
 
 ## HD Lead Conversion Modelling – Python Notebooks
 
-This repository contains the Python notebooks used for an MSc Business Analytics consultancy project.
+This repository contains the Python notebooks used for MSc Business Analytics consultancy project.
 
 ### Notebooks
 - **01_core_modelling.ipynb**  

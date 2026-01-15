@@ -1,0 +1,4 @@
+model,roc_auc
+Baseline,0.7601031057197289
+Agent × Lead Source,0.7419350427124358
+Agent × State,0.6770027192166301
